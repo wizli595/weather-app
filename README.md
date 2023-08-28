@@ -14,24 +14,18 @@ A simple and intuitive weather application that allows users to get weather deta
 
 1. **Clone the Repository**
 
-\```bash
 git clone [Your Repository URL]
 cd [Your Repository Name]
-\```
 
 2. **Install Dependencies**
 
 Make sure you have Node.js installed. Then:
 
-\```bash
 npm install
-\```
 
 3. **Run the App using Vite**
 
-\```bash
 npm run dev
-\```
 
 Your app should now be running on `http://localhost:3000`.
 
