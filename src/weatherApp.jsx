@@ -10,7 +10,7 @@ const WeatherApp = () => {
     // console.log(city);
     const [data, setData] = useState(null);
     return (
-        <div>
+        <div className='all'>
             <div className="container">
                 <div>
                     <SearchWeather setCity={setCity} setErr={setErr} setData={setData} city={city} />
