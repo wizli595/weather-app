@@ -98,9 +98,12 @@ form .search-icon {
   font-size: 20px;
   font-weight: 400;
 }
-@media (320px <= width <= 480px) {
+@media (300px <= width <= 850px) {
   .container {
     width: auto;
     margin: 0;
+  }
+  form {
+    width: auto;
   }
 }
